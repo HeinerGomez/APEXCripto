@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="active_status">Activo</string>
+    <string name="in_active_status">In-Activo</string>
+    <string name="title_list_coin">Listado De Criptomonedas</string>
+    <string name="open_source_label">Open Source</string>
+    <string name="is_new_label">Nuevo</string>
+    <string name="no_data">No hay criptomonedas que mostrar</string>
+</resources>
