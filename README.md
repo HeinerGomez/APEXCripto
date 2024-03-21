@@ -20,13 +20,16 @@ su raking y al dar click en alguna de ellas podremos ver el detalle de la misma
 
 ## Video Demostrativo
 
+https://github.com/HeinerGomez/APEXCripto/assets/27563731/9f990f68-44b8-42e0-a8b2-d1bb6fa37cc6
+
+
 ## Instalación
 
-- PASO 1: Clonar el proyecto y tenerlo de manera local
-- PASO 2: Abrir el proyecto en android studio y dejar que se descarguen las dependencias
-- PASO 3: Ir a Android Studio > Settings > En el apartado de Gradle, verificar que se este usando la versión de java 18.0.2 o superior
-- PASO 4: Ir a File > Project Structure, Verificar en el apartado de project que se este usando la versión 8.4 de gradle.
-- PASO 5: Sincronizar el proyecto y ya se podría ejecutar.
+- *PASO 1:* Clonar el proyecto y tenerlo de manera local
+- *PASO 2:* Abrir el proyecto en android studio y dejar que se descarguen las dependencias
+- *PASO 3:* Ir a Android Studio > Settings > En el apartado de Gradle, verificar que se este usando la versión de java 18.0.2 o superior
+- *PASO 4:* Ir a File > Project Structure, Verificar en el apartado de project que se este usando la versión 8.4 de gradle.
+- *PASO 5:* Sincronizar el proyecto y ya se podría ejecutar.
 
 ## Notas
 
